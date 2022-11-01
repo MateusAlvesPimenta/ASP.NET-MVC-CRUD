@@ -3,10 +3,10 @@
 🚀 atividade do bootcamp Impulso FullStack Web Developer da Digital Inovation One
 
 ##  🛠️ Construído com 
-ASP.NET MVC
-C#
-HTML
-Bootstrap
+* ASP.NET MVC
+* C#
+* HTML
+* Bootstrap
 
 # 🤔 Qual o objetivo deste projeto ?
 
