@@ -1,0 +1,35 @@
+@model EstudosMvc.Models.Contato
+
+@{
+    ViewData["Title"] = "Detalhes do contato";
+}
+
+<h1>Detalhes do contato</h1>
+<hr>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(titulo => titulo.Nome)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(contato => contato.Nome)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(titulo => titulo.Telefone)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(contato => contato.Telefone)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(titulo => titulo.Ativo)
+        </dt>
+        <dt class="col-sm">
+            @Html.DisplayFor(contato => contato.Ativo)
+        </dt>
+    </dl>
+</div>
+<br>
+<a asp-action="Editar" asp-route-id="@Model.Id" class="btn btn-primary">Editar</a>
+<hr>
+<a asp-action="Index">Voltar</a>
