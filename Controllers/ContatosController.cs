@@ -1,6 +1,6 @@
+using Microsoft.AspNetCore.Mvc;
 using EstudosMvc.Context;
 using EstudosMvc.Models;
-using Microsoft.AspNetCore.Mvc;
 
 namespace EstudosMvc.Controllers
 {
