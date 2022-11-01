@@ -1,7 +1,5 @@
 # ASP.NET MVC CRUD
 
-🚀 atividade do bootcamp Impulso FullStack Web Developer da Digital Inovation One
-
 ##  🛠️ Construído com 
 * ASP.NET MVC
 * C#
