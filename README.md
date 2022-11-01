@@ -15,8 +15,8 @@ Bootstrap
 ## 🕹️ O que contem?
   Este projeto possui as funcionalidades básicas de um CRUD(Create Read Update Delete) com uma integração com o banco de dados SqlServer.
   Este projeto possui uma páginas para as seguintes funções:
-  Listar todos os contatos existentes no banco.
-  Criar um novo contato.
-  Alterar um dos contatos.
-  Detalhes do contato.
-  Confirmação e deleção de um determinado contato. 
+  1. Listar todos os contatos existentes no banco.
+  2. Criar um novo contato.
+  3. Alterar um dos contatos.
+  4. Detalhes do contato.
+  5. Confirmação e deleção de um determinado contato. 
